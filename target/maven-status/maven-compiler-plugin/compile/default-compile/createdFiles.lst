@@ -1,0 +1,5 @@
+org/learn/rest/Service/MessageService.class
+org/learn/rest/database/DatabaseClass.class
+org/learn/rest/model/Message.class
+org/learn/rest/model/Profile.class
+org/learn/rest/MessageResource.class
